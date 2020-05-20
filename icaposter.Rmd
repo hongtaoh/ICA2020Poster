@@ -24,9 +24,9 @@ poster_width: 33.2in
 font_family: Cairo
 main_findings:
   - "You'll find more **body shots**, more **cleavage**, more **sexual suggestiveness** via hair display and posing, but as much **cuteness**, in White women’s selfies on **Twitter**, compared to what you may find in Chinese women’s selfies on **Weibo**."
-logoleft_name: httpss&#58;//Users/Tal/Desktop/icaposter/images/github_repo.png
-logoright_name: httpss&#58;//Users/Tal/Desktop/icaposter/images/pre_video.png
-logocenter_name: httpss&#58;//Users/Tal/Desktop/icaposter/images/full_paper.png
+logoleft_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/github_repo.png
+logoright_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/pre_video.png
+logocenter_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/full_paper.png
 output: 
   posterdown::posterdown_betterport:
     self_contained: false
