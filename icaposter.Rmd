@@ -1,9 +1,9 @@
 ---
-main_topsize: 0.165 #percent coverage of the poster
+main_topsize: 0.14 #percent coverage of the poster
 main_bottomsize: 0.1
 main_fontfamily: Yanone Kaffeesatz
 main_textcol: "#8134AF"
-main_textsize: 134px
+main_textsize: 122px
 primary_colour: "#FCAF45" 
 secondary_colour: "#C13584"
 #ESSENTIALS
@@ -24,7 +24,7 @@ poster_width: 33.2in
 font_family: Cairo
 main_findings:
   - "You'll find more **body shots**, more **cleavage**, more **sexual suggestiveness** via hair display and posing, but as much **cuteness**, in White women’s selfies on **Twitter**, compared to what you may find in Chinese women’s selfies on **Weibo**."
-logoleft_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/github_repo.png
+logoleft_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/poster.png
 logoright_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/pre_video.png
 logocenter_name: https&#58;//raw.githubusercontent.com/hongtaoh/ICA2020Poster/master/images/full_paper.png
 output: 
